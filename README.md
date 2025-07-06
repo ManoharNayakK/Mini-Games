@@ -29,8 +29,8 @@ No frameworks, no build steps—just clone the repo and open `index.html`.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your‑username/multi‑game‑web‑app.git
-cd multi‑game‑web‑app
+git clone https://github.com/ManoharNayakK/Mini-Games.git
+cd Mini-Games
 
 # 2. (Optional) Serve with a local web server
 #    This avoids CORS issues on some browsers.
