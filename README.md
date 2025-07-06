@@ -1,4 +1,4 @@
-# 🎮 Multi‑Game Web App
+# 🎮 Mini Games Web App
 
 A single‑page browser game hub featuring **Tic‑Tac‑Toe, Snake & Ladder, and Ludo**—all written in vanilla **HTML, CSS, and JavaScript**.  
 No frameworks, no build steps—just clone the repo and open `index.html`.
